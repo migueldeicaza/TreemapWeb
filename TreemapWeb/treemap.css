@@ -1,0 +1,33 @@
+﻿body {
+}
+
+.node {
+	color: #a26969;
+	border: solid 1px black;
+	word-break: break-all;
+	background-color: wheat;
+}
+
+.text-wrapper {
+	font-size: 36pt;
+	padding: 10pt;
+}
+
+.text-wrapper-tiny {
+	font-size: 8pt;
+	padding: 4pt;
+}
+
+.text-wrapper-small {
+	font-size: 14pt;
+	padding: 14pt;
+}
+
+.text-wrapper-medium {
+	font-size: 18pt;
+	padding: 18pt;
+}
+
+.stats {
+	font-size: smaller;
+}
